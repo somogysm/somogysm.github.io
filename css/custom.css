@@ -1,6 +1,6 @@
 .about-section {
     color: #333;
-    width: 70%;
+    width: 90%;
     margin: auto;
     line-height: 1.7;
 }
@@ -12,3 +12,10 @@
 .projects-title { 
 	text-align: center;
 }
+
+.col-lg-4.col-sm-4 {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
