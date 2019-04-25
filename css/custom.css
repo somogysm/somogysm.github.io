@@ -1,7 +1,14 @@
 .about-section {
-    color: white;
+    color: #333;
     width: 70%;
-    text-align: center;
     margin: auto;
     line-height: 1.7;
+}
+
+.blue-name {
+	color: #39739A;
+}
+
+.projects-title { 
+	text-align: center;
 }
